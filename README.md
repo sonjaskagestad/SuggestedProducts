@@ -12,7 +12,7 @@ The build_model.pynb contains the code for building and training the CNN and doe
 
 ## Dependancies 
 
-The file SuggestedProducts.py must be in the same directory as "dataset", "test_images" and "CNN.model"
+SuggestedProducts.py must be in the same directory as "dataset", "test_images" and "CNN.model" to run
 
 ## Usage
 
