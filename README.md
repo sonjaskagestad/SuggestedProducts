@@ -10,9 +10,13 @@ test images are labeled, the application suggests similar products based on that
 
 The build_model.pynb contains the code for building and training the CNN and does not need to be run.
 
+## Dependancies 
+
+The file SuggestedProducts.py must be in the same directory as "dataset", "test_images" and "CNN.model"
+
 ## Usage
 
-Please download the Repository and run the file SuggestedProducts.py using this command:
+Please run the file SuggestedProducts.py using this command:
  ```bash
 python SuggestedProducts.py
 ```
