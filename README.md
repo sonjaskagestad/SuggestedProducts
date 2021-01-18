@@ -12,7 +12,7 @@ The build_model.pynb contains the code for building and training the CNN and doe
 
 ## Usage
 
-Please download the Repository and unzip the zip files. Run the program using this command
+Please download the Repository and run the file SuggestedProducts.py using this command:
  ```bash
 python SuggestedProducts.py
 ```
